@@ -1,4 +1,4 @@
-# MATCH 3 SAMPLE
+# SAMPLE MATCH 3
 
 This is a template project for Match games. Basically, unity C# is a sample project to explain the software logic and their relationship with each other.
 
