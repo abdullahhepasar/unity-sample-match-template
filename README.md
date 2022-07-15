@@ -6,7 +6,7 @@ Included Plugins:
 - [FullSerializer](https://github.com/jacobdufault/fullserializer)
 - [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595)
 
-##Status and prerequisites
+## Status and prerequisites
 Current status at a glance:
 ```
 Unity version: 2021.2.17f1
