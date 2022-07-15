@@ -1,0 +1,338 @@
+{
+    "id": 1,
+    "width": 8,
+    "height": 8,
+    "tiles": [
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        },
+        {
+            "type": "RandomDrop",
+            "elementType": "None",
+            "$type": "TestProject.DropTile"
+        }
+    ],
+    "limitType": "Moves",
+    "limit": 10,
+    "availableColors": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "columnRespawnLimits": [
+        0
+    ]
+}
